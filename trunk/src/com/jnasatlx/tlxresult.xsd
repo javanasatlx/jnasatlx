@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="TlxResult" type="TlxResultType">
+    <xs:annotation>
+      <xs:documentation>        
+        This schema can be used to process the result of a NasaTlxTest.
+        @author Bernhard Glaser
+        @see class TlxResult#saveAsXML
+      </xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="TlxResultType">
+    <xs:sequence>
+      <xs:element name="TlxSingleResult" type="TlxSingleResultType" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>
+    <xs:attribute name="overall" use="required" type="xs:decimal"/>
+  </xs:complexType> 
+  <xs:complexType name="TlxSingleResultType">
+      <xs:sequence>
+        <xs:element name="Rating" type="xs:decimal"/>
+        <xs:element name="Clicks" type="xs:decimal"/>
+        <xs:element name="Weight" type="xs:decimal"/>
+      </xs:sequence>
+      <xs:attribute name="category" use="required" type="xs:string"/>
+  </xs:complexType>
+</xs:schema>
