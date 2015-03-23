@@ -18,7 +18,7 @@ jNasaTlx can be run standalone(a build script for the jar is included) or you ca
   <li>German</li>
 </ul>
 
-Do you want to port it to another language? Add your translations to {{{TlxLocalization.java}}} and contact me for a project update! It's easy!
+Do you want to port it to another language? Add your translations to <i>TlxLocalization.java</li> and contact me for a project update! It's easy!
 
 <h4>Supported result output formats</h4>
 <ul>
@@ -30,15 +30,15 @@ Do you want to port it to another language? Add your translations to {{{TlxLocal
 
 <h4>Some Screenshots</h4>
 <ul>
-  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYANVFtOElUT1N0MUk"> Screenshot 1</a><li>
-  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYATHJ6eElWVHdwbEU"> Screenshot 2</a><li>
-  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYASXI0RHhObzBlbTA"> Screenshot 3</a><li>
+  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYANVFtOElUT1N0MUk"> Screenshot 1</a></li>
+  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYATHJ6eElWVHdwbEU"> Screenshot 2</a></li>
+  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYASXI0RHhObzBlbTA"> Screenshot 3</a></li>
 </ul>
 
 <h4>Quick Start</h4>
 <ul>
-  </li>Just what you were looking for? [http://goo.gl/qIQh2i Download Source, Jar and Javadoc in a ZipFile]</li>
-  </li>Or browse through the files via Github. Just as you like it!</li>
+  <li>Just what you were looking for? <a href="http://goo.gl/qIQh2i">Download Source, Jar and Javadoc in a ZipFile</a></li>
+  <li>Or browse through the files via Github. Just as you like it!</li>
 </ul>
 
 <h4>Anything else?</h4>
