@@ -18,7 +18,7 @@ jNasaTlx can be run standalone(a build script for the jar is included) or you ca
   <li>German</li>
 </ul>
 
-Do you want to port it to another language? Add your translations to <i>TlxLocalization.java</li> and contact me for a project update! It's easy!
+Do you want to port it to another language? Add your translations to <i>TlxLocalization.java</i> and contact me for a project update! It's easy!
 
 <h4>Supported result output formats</h4>
 <ul>
@@ -43,11 +43,11 @@ Do you want to port it to another language? Add your translations to <i>TlxLocal
 
 <h4>Anything else?</h4>
 
-This Java Port was done by Bernhard Glaser in Spring 2014 and is provided without any restrictions or warranties.<br>
+This java port was done by Bernhard Glaser in spring 2014 and is provided without any restrictions or warranties.<br>
 It is appreciated if you put a reference to the original authors and me, though.<br>
 If you add new features or translations - give them to me and I'll put them into the project.<br>
-This Project has moved from GoogleCode to Github in Spring 2015 due to the immanent google code shutdown.<br>
-<a href="https://code.google.com/p/jnasatlx/" target="_blank">The old page on GoogleCode (using SVN)</a> will be online until it is deleted by Google in Fall 2015.
+This project has moved from google code to github in spring 2015 due to the immanent google code shutdown.<br>
+<a href="https://code.google.com/p/jnasatlx/" target="_blank">The old page on google code (using SVN)</a> will be online until it is deleted by google in fall 2015.
 
 <h4>Comments, Questions, Wishes?</h4>
 
