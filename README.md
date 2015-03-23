@@ -4,11 +4,11 @@
 
 Hart and Staveland’s NASA Task Load Index (NASATLX) is a questionnaire for measuring subjective work load of a given task.
 
-<a href="http://humansystems.arc.nasa.gov/groups/TLX/tlxpublications.html">Click here for more information.</a>
+<a href="http://humansystems.arc.nasa.gov/groups/TLX/tlxpublications.html" target="_blank">Click here for more information.</a>
 
 This work is a complete Java Swing Port of the NASA TLX Test implemented in Html and Javascript by Keith Vertanen.
 
-<a href="http://www.keithv.com/software/nasatlx/">You can find his version here.</a>
+<a href="http://www.keithv.com/software/nasatlx/" target="_blank">You can find his version here.</a>
 
 jNasaTlx can be run standalone(a build script for the jar is included) or you can just use the classes in your project.
 
@@ -30,14 +30,14 @@ Do you want to port it to another language? Add your translations to <i>TlxLocal
 
 <h4>Some Screenshots</h4>
 <ul>
-  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYANVFtOElUT1N0MUk"> Screenshot 1</a></li>
-  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYATHJ6eElWVHdwbEU"> Screenshot 2</a></li>
-  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYASXI0RHhObzBlbTA"> Screenshot 3</a></li>
+  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYANVFtOElUT1N0MUk" target="_blank"> Screenshot 1</a></li>
+  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYATHJ6eElWVHdwbEU" target="_blank"> Screenshot 2</a></li>
+  <li><a href="http://drive.google.com/uc?export=view&id=0B0-ieX8w3XYASXI0RHhObzBlbTA" target="_blank"> Screenshot 3</a></li>
 </ul>
 
 <h4>Quick Start</h4>
 <ul>
-  <li>Just what you were looking for? <a href="http://goo.gl/qIQh2i">Download Source, Jar and Javadoc in a ZipFile</a></li>
+  <li>Just what you were looking for? <a href="http://goo.gl/qIQh2i" target="_blank">Download Source, Jar and Javadoc in a ZipFile</a></li>
   <li>Or browse through the files via Github. Just as you like it!</li>
 </ul>
 
@@ -47,10 +47,10 @@ This Java Port was done by Bernhard Glaser in Spring 2014 and is provided withou
 It is appreciated if you put a reference to the original authors and me, though.<br>
 If you add new features or translations - give them to me and I'll put them into the project.<br>
 This Project has moved from GoogleCode to Github in Spring 2015 due to the immanent google code shutdown.<br>
-<a href="https://code.google.com/p/jnasatlx/">The old page on GoogleCode (using SVN)</a> will be online until it is deleted by Google in Fall 2015.
+<a href="https://code.google.com/p/jnasatlx/" target="_blank">The old page on GoogleCode (using SVN)</a> will be online until it is deleted by Google in Fall 2015.
 
 <h4>Comments, Questions, Wishes?</h4>
 
 Contact me via mail at javanasatlx_at_gmail.com
 
-Project statistics are available <a href="http://goo.gl/qIQh2i.info">here</a>.
+Project statistics are available <a href="http://goo.gl/qIQh2i.info" target="_blank">here</a>.
